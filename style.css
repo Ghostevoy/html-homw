@@ -128,7 +128,7 @@ main {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    height: 470px;
+    min-height: 470px;
     gap: 30px;
     margin-top: 65px;
 }
@@ -363,6 +363,7 @@ main {
         padding: 32px;
         max-width: 343px;
         margin-top: 32px;
+        min-height: 375px;
         max-height: none;
                 
     }
@@ -389,7 +390,7 @@ main {
     }
 
     .product_item {
-        max-width: 100%;
+       
         
     }
 }
