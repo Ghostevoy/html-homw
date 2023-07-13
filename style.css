@@ -214,6 +214,7 @@ main {
     display: flex;
     flex-direction: column;
     max-width: 360px;
+    background: #F8F8F8;
 }
 
 .product_info {
@@ -365,7 +366,7 @@ main {
         margin-top: 32px;
         min-height: 375px;
         max-height: none;
-                
+
     }
 
     .offer_items {
