@@ -377,6 +377,18 @@ main {
     .offer_text {
     }
 
+    .offer_big {
+        min-height: 111px;
+        display: flex;
+        
+
+    }
+
+    .offer img {
+        overflow: hidden;
+        object-fit: none;
+    }
+
     .product {
         display: flex;
         flex-direction: column;
