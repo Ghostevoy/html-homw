@@ -292,6 +292,7 @@ main {
     display: flex;
     flex-direction: column;
     max-width: 360px;
+    background: #F8F8F8;
 }
 
 .prod__image_cont{
@@ -740,7 +741,7 @@ width: 100%;
         margin-top: 32px;
         min-height: 375px;
         max-height: none;
-                
+
     }
 
     .offer_items {
